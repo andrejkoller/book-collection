@@ -1,1 +1,5 @@
-# book-collection
+# Book Collection
+Books from my personal library and reading collection, in no particular order.
+
+- [The Qur'an and the Bible: Text and Commentary](https://www.amazon.de/Quran-Bible-Text-Commentary/dp/0300181329/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZKE6X319TM14&dib=eyJ2IjoiMSJ9.ckiP3BBao12OPZAwOSjcMqwMlyyPTGR3AA4-y_61IHNtdAsplxt1Cl7VtnCJUH_N4c-ERRI6c5LCPA7Gq4uBQd_Ul2e-TFAArT3qpVce9RsPA926oW595vcfBoQi-3m4XXnXO9XPIhf2MyTtr4u--kQPzdvxCjjx7IeF3gFYl_qCv4NsnMtx5tR3x6N3TZVWCVfTgIBn8TR7dWXbR5-ox8FhuS63IIPUkXQuvQT66R8.wrq8ZnXGBDALIEV1BehPMUY_Ys-fi_M5fSzHjcbDIFk&dib_tag=se&keywords=quran+and+the+bible&qid=1769088151&sprefix=quran+and+the+bibl%2Caps%2C107&sr=8-1)
+- [Allah: God in the Qur'an](https://www.amazon.de/Allah-English-Gabriel-Said-Reynolds-ebook/dp/B085CM9J5B?ref_=ast_author_dp_rw&th=1&psc=1&dib=eyJ2IjoiMSJ9.DxSEO6X7ThYslkh67Iw_oMKOKLXW7ax0Wjvn321rjqKorQJm7q1KtxhDMZQnh2R6NhCQzm8eCnlX8YQ5otxfpr2YnJJ4blQ4E2KvQrQXwLiFbGuqXM08WTnO8t8OwdnHt1AtE069q9ciQ5zHGlpRv6Ds3NR69pW3hoz-oIC3PZ2_EALkc4Y9JK-QTXcLR6Dg.ExUL9A4E8TRxp0VRjGMZjo1aZKPt6-843zycryKrGaI&dib_tag=AUTHOR)
